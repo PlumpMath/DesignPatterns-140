@@ -8,8 +8,10 @@ namespace SingletonUnitTests
     [TestClass]
     public class SingetonTests
     {
-
+        private string test1;
+        private string test2;
         private TestContext testContextInstance;
+
         public TestContext TestContext
         {
             get { return testContextInstance; }
@@ -19,37 +21,40 @@ namespace SingletonUnitTests
         [TestMethod]
         public void TestMethod1()
         {
-            string s1;
-            string s2;
+           
             testContextInstance.WriteLine("Hello");
 
-            new Thread(() =>
-
-            {
-                MyfabClass myfabc;
-
-                myfabc = MyfabClass.GiveMeInstance();
-                s1 = myfabc.identifier;
-                testContextInstance.WriteLine($"Came to this:{s1}");
-                Console.WriteLine(myfabc.identifier);
-            }
-            );
+            MyfabClass myfabc = MyfabClass.GiveMeInstance();
+            test1 = myfabc.identifier;
+           
+            testContextInstance.WriteLine($"Identifier{myfabc.identifier}");
 
             new Thread(() =>
-
             {
-                MyfabClass myfabc;
-
                 myfabc = MyfabClass.GiveMeInstance();
-                s2 = myfabc.identifier;
-                testContextInstance.WriteLine(s2);
-                Console.WriteLine(myfabc.identifier);
-            }
-            );
+                
+                testContextInstance.WriteLine($"Identifier{myfabc.identifier}");
+            });
 
-            //Assert.AreNotEqual(s1, s2);
-
+            new Thread(() =>
+                 {
+             myfabc = MyfabClass.GiveMeInstance();
+               
+                testContextInstance.WriteLine($"Identifier{myfabc.identifier}");
+                       });
 
         }
-    }
+
+        [TestMethod]
+        public void TestMethod2 ()
+        {
+
+            MyfabClass myfabc = MyfabClass.GiveMeInstance();          
+            testContextInstance.WriteLine($"Identifier{myfabc.identifier}");
+            test2 = myfabc.identifier;
+
+            Assert.AreNotEqual(test1, test2);
+        }
+            
+            }
 }

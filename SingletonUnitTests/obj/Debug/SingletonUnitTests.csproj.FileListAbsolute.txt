@@ -1,6 +1,5 @@
 C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SingletonUnitTests\bin\Debug\SingletonUnitTests.dll
 C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SingletonUnitTests\bin\Debug\SingletonUnitTests.pdb
-C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SingletonUnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SingletonUnitTests\bin\Debug\Singleton.exe
 C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SingletonUnitTests\bin\Debug\Singleton.pdb
 C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SingletonUnitTests\obj\Debug\SingletonUnitTests.csprojResolveAssemblyReference.cache
