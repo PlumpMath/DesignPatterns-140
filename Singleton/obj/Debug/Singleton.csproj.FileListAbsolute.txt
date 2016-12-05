@@ -3,3 +3,4 @@ c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\Singl
 c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\Singleton\bin\Debug\Singleton.pdb
 c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\Singleton\obj\Debug\Singleton.exe
 c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache

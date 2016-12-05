@@ -1,1 +1,6 @@
 c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\SImpleFactory\bin\Debug\SImpleFactory.exe.config
+C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SImpleFactory\bin\Debug\SImpleFactory.exe
+C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SImpleFactory\bin\Debug\SImpleFactory.pdb
+C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SImpleFactory\obj\Debug\SImpleFactory.csprojResolveAssemblyReference.cache
+C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SImpleFactory\obj\Debug\SImpleFactory.exe
+C:\Users\Shubhra\Documents\Visual Studio 2015\Projects\ConsoleApplication4\SImpleFactory\obj\Debug\SImpleFactory.pdb
