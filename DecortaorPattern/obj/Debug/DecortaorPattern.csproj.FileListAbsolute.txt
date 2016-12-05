@@ -1,0 +1,6 @@
+c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\DecortaorPattern\obj\Debug\DecortaorPattern.csprojResolveAssemblyReference.cache
+c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\DecortaorPattern\bin\Debug\DecortaorPattern.exe.config
+c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\DecortaorPattern\bin\Debug\DecortaorPattern.exe
+c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\DecortaorPattern\bin\Debug\DecortaorPattern.pdb
+c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\DecortaorPattern\obj\Debug\DecortaorPattern.exe
+c:\users\shubhra\documents\visual studio 2015\Projects\ConsoleApplication4\DecortaorPattern\obj\Debug\DecortaorPattern.pdb
